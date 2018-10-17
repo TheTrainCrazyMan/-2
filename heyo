@@ -1,0 +1,17 @@
+echo "# Hallo-World" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/TheTrainCrazyMan/Hallo-World.git
+git push -u origin master
+from time import sleep
+var num = 1
+if num = 1:
+    sleep 3
+    print("Hello there!")
+    var ans = print("What is 7 x 7")
+    if ans = 49:
+        print("Correct!")
+        ans + 10 = ans2
+        
+    
